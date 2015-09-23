@@ -7,7 +7,7 @@
 Get hands-on practice working with PHP by creating an xkcd style password generator.
 
 ## Demo
-N/A for P1.
+http://screencast.com/t/U71cS0X6
 
 ## Details for teaching team
 Included css folder for the style.css file and the bootstrap.min.css.  Also included the library folder for my wordlist.  The word list is most of
